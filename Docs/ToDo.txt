@@ -1,0 +1,6 @@
+- Terminar programar caso puchito OK
+- Generar factura
+- Cuadrar los informes OK
+- Formulario para inicializar tarifas OK
+- Hacer el DAO mas simple
+- Inicializar datos OK 
